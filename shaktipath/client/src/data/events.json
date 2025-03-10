@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "History Lecture",
+    "date": "02/04/2023",
+    "imageUrl": "https://source.unsplash.com/random/640x360?history,lecture",
+    "upvotes": 25
+  },
+  {
+    "id": 2,
+    "title": "Chemistry Laboratory",
+    "date": "01/05/2022",
+    "imageUrl": "https://source.unsplash.com/random/640x360?chemistry,laboratory",
+    "upvotes": 18
+  },
+  {
+    "id": 3,
+    "title": "Art Exhibition",
+    "date": "05/12/2023",
+    "imageUrl": "https://source.unsplash.com/random/640x360?art,exhibition",
+    "upvotes": 32
+  },
+  {
+    "id": 4,
+    "title": "Music Festival",
+    "date": "07/22/2023",
+    "imageUrl": "https://source.unsplash.com/random/640x360?music,festival",
+    "upvotes": 42
+  },
+  {
+    "id": 5,
+    "title": "Coding Workshop",
+    "date": "10/15/2023",
+    "imageUrl": "https://source.unsplash.com/random/640x360?coding,workshop",
+    "upvotes": 28
+  },
+  {
+    "id": 6,
+    "title": "Music Festival",
+    "date": "07/22/2023",
+    "imageUrl": "https://source.unsplash.com/random/640x360?music,festival",
+    "upvotes": 42
+  },
+  {
+    "id": 7,
+    "title": "Coding Workshop",
+    "date": "10/15/2023",
+    "imageUrl": "https://source.unsplash.com/random/640x360?coding,workshop",
+    "upvotes": 28
+  }
+]

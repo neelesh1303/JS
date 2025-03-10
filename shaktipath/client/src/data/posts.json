@@ -1,0 +1,112 @@
+[
+  {
+    "author": "Priya Sharma",
+    "profile_img": "/img/logo2.jpg",
+    "position": "Software Engineer",
+    "image": "/img/library.jpg",
+    "incident": "Power outage in the building",
+    "description": "The power went off at 10:15 am and we had to stop our work. The backup generator did not work either. We waited for an hour but there was no sign of restoration. We decided to go home and work remotely.",
+    "upvotes": 23,
+    "time": "3",
+    "emojis": 12
+  },
+  {
+    "author": "Anjali Singh",
+    "profile_img": "/img/anjali.jpg",
+    "position": "Marketing Manager",
+    "image": "/img/event.jpg",
+    "incident": "Successful launch of a new product",
+    "description": "We had a great event yesterday where we unveiled our new product to the public. The response was amazing and we got a lot of positive feedback. We also got some media coverage and social media buzz.",
+    "upvotes": 45,
+    "time": "5",
+    "emojis": 18
+  },
+  {
+    "author": "Riya Patel",
+    "profile_img": "/img/riya.jpg",
+    "position": "Accountant",
+    "image": "/img/report.jpg",
+    "incident": "Error in the financial report",
+    "description": "I found a mistake in the financial report that was sent to the client. It was a minor calculation error but it could have serious consequences. I informed the manager and he apologized to the client. We corrected the report and resent it.",
+    "upvotes": 15,
+    "time": "6",
+    "emojis": 8
+  },
+  {
+    "author": "Neha Gupta",
+    "profile_img": "/img/neha.jpg",
+    "position": "HR Executive",
+    "image": "/img/interview.jpg",
+    "incident": "Interview with a potential candidate",
+    "description": "I had an interview with a candidate who applied for the sales position. He was very confident and had good communication skills. He also had relevant experience and qualifications. I was impressed by his performance and recommended him for the next round.",
+    "upvotes": 32,
+    "time": "7",
+    "emojis": 14
+  },
+  {
+    "author": "Pooja Kumar",
+    "profile_img": "/img/pooja.jpg",
+    "position": "Project Manager",
+    "image": "/img/meeting.jpg",
+    "incident": "Meeting with the client",
+    "description": "We had a meeting with the client today to discuss the progress of the project. The client was happy with the work done so far and appreciated our efforts. He also gave us some feedback and suggestions for improvement. We agreed on the next steps and deadlines.",
+    "upvotes": 38,
+    "time": "8",
+    "emojis": 16
+  },
+  {
+    "author": "Shreya Jain",
+    "profile_img": "/img/shreya.jpg",
+    "position": "Graphic Designer",
+    "image": "/img/logo.jpg",
+    "incident": "Designing a logo for a new client",
+    "description": "I was assigned to design a logo for a new client who is launching a fashion brand. I did some research and brainstorming and came up with some ideas. I sketched them on paper and then used Photoshop to create the digital versions. I sent them to the client for feedback.",
+    "upvotes": 27,
+    "time": "9",
+    "emojis": 11
+  },
+  {
+    "author": "Kavya Reddy",
+    "profile_img": "/img/kavya.jpg",
+    "position": "Content Writer",
+    "image": "/img/blog.jpg",
+    "incident": "Writing a blog post for the website",
+    "description": "I wrote a blog post for the website on the topic of how to improve your writing skills. I did some research and found some useful tips and examples. I wrote the post in a clear and engaging way and added some images and links. I proofread and edited the post before publishing it.",
+    "upvotes": 34,
+    "time": "10",
+    "emojis": 13
+  },
+  {
+    "author": "Divya Sharma",
+    "profile_img": "/img/divya.jpg",
+    "position": "Customer Support",
+    "image": "/img/call.jpg",
+    "incident": "Handling a customer complaint",
+    "description": "I received a call from a customer who was unhappy with the product he bought from us. He said it was defective and wanted a refund. I apologized for the inconvenience and asked him to send us the proof of purchase and the product. I assured him that we would process his request as soon as possible.",
+    "upvotes": 19,
+    "time": "11",
+    "emojis": 9
+  },
+  {
+    "author": "Rashmi Verma",
+    "profile_img": "/img/rashmi.jpg",
+    "position": "Data Analyst",
+    "image": "/img/chart.jpg",
+    "incident": "Analyzing the sales data",
+    "description": "I analyzed the sales data for the last quarter and created a report. I used Excel and Power BI to perform the analysis and visualization. I found some interesting insights and trends in the data. I highlighted the key findings and recommendations in the report.",
+    "upvotes": 41,
+    "time": "12",
+    "emojis": 17
+  },
+  {
+    "author": "Nisha Chauhan",
+    "profile_img": "/img/nisha.jpg",
+    "position": "Social Media Manager",
+    "image": "/img/post.jpg",
+    "incident": "Creating a social media post",
+    "description": "I created a social media post for our Facebook page. The post was about the benefits of our product and how it can solve the customer's problems. I used a catchy headline and a compelling image. I also added a call to action and a link to our website.",
+    "upvotes": 29,
+    "time": "13",
+    "emojis": 12
+  }
+]
